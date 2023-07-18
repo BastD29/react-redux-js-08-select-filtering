@@ -1,0 +1,12 @@
+.product-list-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  grid-gap: 5px;
+}
+
+.product-container {
+  border: solid 1px black;
+  width: 300px;
+  padding: 5px;
+}
